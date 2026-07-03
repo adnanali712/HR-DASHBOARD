@@ -84,15 +84,10 @@ The Excel dashboard includes:
 
 # 📷 Dashboard Preview
 
-Add screenshots of your dashboard here.
+<img width="1832" height="780" alt="image" src="https://github.com/user-attachments/assets/dc23dea1-fc12-4953-933a-04abf7a99cd6" />
 
-Example:
 
-```markdown
-![Dashboard Screenshot](dashboard.png)
-```
 
----
 
 # 📌 Key Insights
 
